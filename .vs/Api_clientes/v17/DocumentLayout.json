@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Daniel\\Api_clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\infraestructure\\querys\\getlistgiaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\infraestructure\\querys\\getlistgiaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\infraestructure\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\infraestructure\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|c:\\daniel\\api_clientes\\api_clientes\\api_clientes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9592FD5A-0178-4C43-97D9-2DDD5F56C0C0}|Api_clientes\\Api_clientes.csproj|solutionrelative:api_clientes\\api_clientes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api_clientes\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api_clientes\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:55:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_clientes\\appsettings.json",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\appsettings.json",
+              "RelativeToolTip": "Api_clientes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T06:03:09.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Program.cs",
+              "RelativeDocumentMoniker": "Api_clientes\\Program.cs",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Program.cs",
+              "RelativeToolTip": "Api_clientes\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:02:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetListGiaQuery.cs",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Infraestructure\\Querys\\GetListGiaQuery.cs",
+              "RelativeDocumentMoniker": "Api_clientes\\Infraestructure\\Querys\\GetListGiaQuery.cs",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Infraestructure\\Querys\\GetListGiaQuery.cs",
+              "RelativeToolTip": "Api_clientes\\Infraestructure\\Querys\\GetListGiaQuery.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:00:12.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Infraestructure\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Api_clientes\\Infraestructure\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Infraestructure\\AplicationDbContext.cs",
+              "RelativeToolTip": "Api_clientes\\Infraestructure\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:00:02.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "Api_clientes\\Domain\\Cliente.cs",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Domain\\Cliente.cs",
+              "RelativeToolTip": "Api_clientes\\Domain\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:58:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Api_clientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Api_clientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:58:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api_clientes.http",
+              "DocumentMoniker": "C:\\Daniel\\Api_clientes\\Api_clientes\\Api_clientes.http",
+              "RelativeDocumentMoniker": "Api_clientes\\Api_clientes.http",
+              "ToolTip": "C:\\Daniel\\Api_clientes\\Api_clientes\\Api_clientes.http",
+              "RelativeToolTip": "Api_clientes\\Api_clientes.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-03T05:56:06.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
